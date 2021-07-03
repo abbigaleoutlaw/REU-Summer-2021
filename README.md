@@ -91,18 +91,18 @@ The figure below compares active and passive voters based on party affiliation. 
 
 ![Voter Activity based on Party Affiliation](https://user-images.githubusercontent.com/86391094/124341534-05d95b80-db8b-11eb-9300-6034a3c37442.png)
 
-The chart below compares the number of Hispanics within each party affiliation and the total number of times Hispanics within each party affiliation have voted. 
+The chart below compares the number of Hispanics within each party affiliation and the total number of times Hispanics within each party affiliation have voted. Note that Hispanics with Republican Party affiliation have voted a significant amount more with less voters than Hispanic voters with any other party affiliation. 
 
 | | DEM | NPA | REP | Other(s) |
 | ----- | --- | --- | --- | -------- |
 | # of voters | 411 | 504 | 478 | 18 |
 | # of times voted | 1146 | 767 | 2086 | 14 |
 
-When examining voter activity of Hispanic voters in Nassau County, I found that Hispanic voters with Republican Party Affiliation were significantly more active than Hispanic voters with no party affiliation or Democratic Party affiliation. I also looked at age and voter activity to find that voters ages 67 to 75 (Boomers I generation) tended to be the most active.
+The figure below compares active and passive voters based on generation and party affiliation. Gen Z with Democratic affiliation has more active voters than Gen Z voters with Republican affiliation. However, in all other generations, Republican voters have a higher percentage of active voters than Democratic voters. 
 
 ![Active vs  Passive Voters based on Generation and Party Affiliation](https://user-images.githubusercontent.com/86391094/124341540-0eca2d00-db8b-11eb-9555-117b58acdfbc.png)
 
-
+When examining voter activity of Hispanic voters in Nassau County, I found that Hispanic voters with Republican Party Affiliation were significantly more active than Hispanic voters with no party affiliation or Democratic Party affiliation. I also looked at age and voter activity to find that voters ages 67 to 75 (Boomers I generation) tended to be the most active.
 
 ## Conclusion
 
