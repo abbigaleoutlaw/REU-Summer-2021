@@ -36,7 +36,7 @@ Within Nassau County, there are 18 sub-groups represented, 19 if "others" is con
 
 The figure below shows which Hispanic sub-group is represented the most in each zip code of Nassau County. In zip code 32009, Mexican and Puerto Rican sub-groups have the most representation at 33.33 percent. In zip code 32011, the sub-group with the most representation is Mexican at 34.34 percent. In zip code 32034, the sub-group with the most representation is Mexican at 44.28 percent. In zip code 32046, the sub-group with the most representation is Cuban at 32.87 percent. In zip code 32097, the sub-group with the most representation is Puerto Rican at 31.28 percent. Note that zip code 32234 is not in the figure due to the fact that it is recognized to be a part of Duval County. However, in our voter data file, it is considered part of Nassau County. In zip code 32234, the sub-group with the most representation is Mexican at 43.80 percent.
 
-![Nassau County Sub-Group Map](https://user-images.githubusercontent.com/86391094/124339170-73c95700-db7a-11eb-8c44-38d338b7b6c4.png)
+![Nassau County Sub-Group Map](https://user-images.githubusercontent.com/86391094/124339224-f520e980-db7a-11eb-80bf-dd07862e4b73.png)
 
 Within Nassau County, there are 70,707 registered voters with Hispanics representing 1.996 percent of registered voters. This means that there are 1,411 Hispanics registered to vote in Nassau County.
 
