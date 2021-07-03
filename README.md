@@ -16,11 +16,11 @@ The goal is to predict subgroups of Hispanic voters, determine the influence one
 
 In order to begin the project, we were given Voter History and Voter Registration zip files. These files contain data for all counties in Florida based on zip code. I chose one county, Nassau County, to look more in-depth at. I created Excel files with Nassau County data only in order to condense the amount of data within the files. From the Excel files, I analyzed the data to create graphics to describe the population in Nassau County. 
 
-##### Voter Registration Zip File 
+#### Voter Registration Zip File 
 
 The Voter Registration Zip File contains all the registered voters in Florida, but I specifically looked at the information of registered voters in Nassau County. For each voter, the file contained their county code, voter ID number, name (first, middle, last, second last, and suffix), residence address, zip code, mailing address, gender, race, birthday, registration date, party affiliation, precinct, voter status, phone area code, phone number, email address, etc. 
 
-##### REU Data File 
+#### REU Data File 
 
 The REU Data file contains all of the information on the registered voters in Nassau County from the Voter Registration Zip File. I narrowed the voter information down to what was important in helping predict sub-group identity and trends in party affiliation or voter activity. For each voter, I kept county code, voter ID number, name(s), zip code, gender, race, birthday, registration date, party affiliation, voter status, and phone area code. With this information, I was able to create numerous graphics and tables to describe the total population and registered voter population of Nassau County. The REU Data file also contains data from proximityone.com about the distribution of sub-group identities for each zip code in Nassau County. The proximityone.com data contains the number of Hispanics in each sub-group in each zip code of Nassau County, the percentage of Hispanics each sub-group represents by zip code, and the total population of each zip code in Nassau County.
 
