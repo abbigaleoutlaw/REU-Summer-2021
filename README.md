@@ -49,6 +49,16 @@ Within Nassau County, there are 70,707 registered voters with Hispanics represen
 | 32097 | 16568 | 528 |
 | 32234 | 56 | 0 |
 
+The table above compares the number of non-Hispanic voters to Hispanic voters in each zip code of Nassau County.
+
+![Total Hispanics vs  Registered Hispanic Voters](https://user-images.githubusercontent.com/86391094/124339596-96a93a80-db7d-11eb-994b-c0b624d26c92.jpg)
+
+The figure above compares the total Hispanic population of Nassau County to the total number of registered Hispanic voters in Nassau County by zip code. Note, in zip code 32097, almost all Hispanics are registered to vote. Also, in zip code 32234, there are no Hispanics registered to vote.
+
+![Party Affiliation Percentages](https://user-images.githubusercontent.com/86391094/124339643-e425a780-db7d-11eb-9996-d06df8595a27.png)
+
+The figure above shows the distribution of voters among different parties. Figure 5 shows the percentage of Non-Hispanic voters in each party affiliation and the percentage of Hispanic voters in each party affiliation. The percentages are based on total non-Hispanic voters and total Hispanic voters, not the total number of registered voters. NPA means no party affiliation, REP represents the Republican Party of Florida, DEM represents the Democratic Party of Florida, and others includes the Libertarian Party of Florida, the Green Party of Florida, the Independent Party of Florida, the Constitution Party of Florida, the Ecology Party of Florida, the Reform Party of Florida, and the Party for Socialism and Liberation-Florida.
+
 ## Implementation
 
 I also looked at the Hispanic voters' activity in Nassau County. I found that Hispanic voters associated with the Republican Party of Florida voted more frequently than Hispanic voters associated with the Democaratic Party of Florida and Hispanic voters with no party affiliation. I am going to see if there is a pattern with age amongst voters based on party affiliation and voting frequency. I am also going to see if there is a trend amongst different subgroups based on party affiliation and voting frequency. I want to also look at other counties in Florida to see if the trend of Republican Hispanics being more active holds true. 
