@@ -22,7 +22,7 @@ The Voter Registration Zip File contains all the registered voters in Florida, b
 
 ##### REU Data File 
 
-The REU Data file contains all of the information on the registered voters in Nassau County from the Voter Registration Zip File. I narrowed the voter information down to what was important in helping predict sub-group identity and trends in party affiliation or voter activity. For each voter, I kept county code, voter ID number, name(s), zip code, gender, race, birthday, registration date, party affiliation, voter status, and phone area code. With this information, I was able to create numerous graphics and tables to describe the total population and registered voter population of Nassau County.
+The REU Data file contains all of the information on the registered voters in Nassau County from the Voter Registration Zip File. I narrowed the voter information down to what was important in helping predict sub-group identity and trends in party affiliation or voter activity. For each voter, I kept county code, voter ID number, name(s), zip code, gender, race, birthday, registration date, party affiliation, voter status, and phone area code. With this information, I was able to create numerous graphics and tables to describe the total population and registered voter population of Nassau County. The REU Data file also contains data from proximityone.com about the distribution of sub-group identities for each zip code in Nassau County. 
 
 Nassau County consists of six zip codes: 32009, 32011, 32034, 32046, 32097, and 32234. The total population of Nassau County is 79,819 with a Hispanic population of 2,517.
 
