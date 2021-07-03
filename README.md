@@ -40,6 +40,15 @@ The figure below shows which Hispanic sub-group is represented the most in each 
 
 Within Nassau County, there are 70,707 registered voters with Hispanics representing 1.996 percent of registered voters. This means that there are 1,411 Hispanics registered to vote in Nassau County.
 
+| Zip Code | Non-Hispanic | Hispanic |
+| -------- | ------------ | -------- |
+| 32009 | 2472 | 28|
+| 32011 | 11458 | 170 |
+| 32034 | 31731 | 632 |
+| 32046 | 7011 | 53 |
+| 32097 | 16568 | 528 |
+| 32234 | 56 | 0 |
+
 ## Implementation
 
 I also looked at the Hispanic voters' activity in Nassau County. I found that Hispanic voters associated with the Republican Party of Florida voted more frequently than Hispanic voters associated with the Democaratic Party of Florida and Hispanic voters with no party affiliation. I am going to see if there is a pattern with age amongst voters based on party affiliation and voting frequency. I am also going to see if there is a trend amongst different subgroups based on party affiliation and voting frequency. I want to also look at other counties in Florida to see if the trend of Republican Hispanics being more active holds true. 
