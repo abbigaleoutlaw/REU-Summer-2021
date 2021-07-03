@@ -59,6 +59,8 @@ The figure above compares the total Hispanic population of Nassau County to the 
 
 The figure above shows the distribution of voters among different parties. The figure shows the percentage of Non-Hispanic voters in each party affiliation and the percentage of Hispanic voters in each party affiliation. The percentages are based on total non-Hispanic voters and total Hispanic voters, not the total number of registered voters. NPA means no party affiliation, REP represents the Republican Party of Florida, DEM represents the Democratic Party of Florida, and others includes the Libertarian Party of Florida, the Green Party of Florida, the Independent Party of Florida, the Constitution Party of Florida, the Ecology Party of Florida, the Reform Party of Florida, and the Party for Socialism and Liberation-Florida.
 
+#### Age and Gender with Party Affiliation File
+
 ## Implementation
 
 I also looked at the Hispanic voters' activity in Nassau County. I found that Hispanic voters associated with the Republican Party of Florida voted more frequently than Hispanic voters associated with the Democaratic Party of Florida and Hispanic voters with no party affiliation. I am going to see if there is a pattern with age amongst voters based on party affiliation and voting frequency. I am also going to see if there is a trend amongst different subgroups based on party affiliation and voting frequency. I want to also look at other counties in Florida to see if the trend of Republican Hispanics being more active holds true. 
