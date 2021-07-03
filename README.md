@@ -93,8 +93,8 @@ The figure below compares active and passive voters based on party affiliation. 
 
 The chart below compares the number of Hispanics within each party affiliation and the total number of times Hispanics within each party affiliation have voted. 
 
-| Total | DEM | NPA | REP | Other(s) |
-| --- | --- | --- | --- |
+| | DEM | NPA | REP | Other(s) |
+| ----- | --- | --- | --- | -------- |
 | # of voters | 411 | 504 | 478 | 18 |
 | # of times voted | 1146 | 767 | 2086 | 14 |
 
