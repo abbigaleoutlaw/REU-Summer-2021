@@ -18,7 +18,7 @@ In order to begin the project, we were given Voter History and Voter Registratio
 
 #### Voter Registration Zip File 
 
-The Voter Registration Zip File contains all the registered voters in Florida, but I specifically looked at the information of registered voters in Nassau County. For each voter, the file contained their county code, voter ID number, name (first, middle, last, second last, and suffix), residence address, zip code, mailing address, gender, race, birthday, registration date, party affiliation, precinct, voter status, phone area code, phone number, email address, etc. 
+The Voter Registration Zip file contains all the registered voters in Florida, but I specifically looked at the information of registered voters in Nassau County. For each voter, the file contained their county code, voter ID number, name (first, middle, last, second last, and suffix), residence address, zip code, mailing address, gender, race, birthday, registration date, party affiliation, precinct, voter status, phone area code, phone number, email address, etc. 
 
 #### REU Data File 
 
@@ -79,8 +79,15 @@ To start, I looked into age being a trend amongst Hispanic voters like it is wit
 
 ![Party Affiliation by Age of Hispanic Voters](https://user-images.githubusercontent.com/86391094/124340371-bb53e100-db82-11eb-85b1-ef52761af2ad.png)
 
-Another goal is to predict Hispanic voters sub-groups because there are studies that suggest Hispanic voters vote differently based on their sub-group identity. Thus far, I have been able to use an Excel file (NASSAU COUNTY-HISPANIC File), created Dr. Berezovski to combine all of our data sets, to predict a Hispanic voter's sub-group identity based on zip code and last name and on zip code, last name(s), first name, and middle name. When predicting a Hispanic voter's sub-group based on zip code, last name(s), first name, and middle name, there were 67 false negatives, which is 4.75 percent of all registered Hispanic voters in Nassau County. When predicting a Hispanic voter's sub-group based on zip code and last name only, 452 Hispanic voters were not identified as Hispanic, meaning 32.01 percent of all registered Hispanic voters were falsely identified. Looking at the percent of false negatives is one way to measure the accuracy of the prediction method.
+Another goal is to predict Hispanic voters sub-groups because there are studies that suggest Hispanic voters vote differently based on their sub-group identity. To predict sub-group identities, I used an Excel file (NASSAU COUNTY-HISPANIC File), created Dr. Berezovski to combine all of our data sets. The file is able to predict a Hispanic voter's sub-group identity based on zip code and last name and on zip code, last name(s), first name, and middle name. When predicting a Hispanic voter's sub-group based on zip code, last name(s), first name, and middle name, there were 67 false negatives, which is 4.75 percent of all registered Hispanic voters in Nassau County. When predicting a Hispanic voter's sub-group based on zip code and last name only, 452 Hispanic voters were not identified as Hispanic, meaning 32.01 percent of all registered Hispanic voters were falsely identified. Looking at the percent of false negatives is one way to measure the accuracy of the prediction method.
+
+The last goal is to look at how active Hispanic voters are and find trends amongst their activity that could explain why the Democratic Party of Florida is experiencing underperformance. To examine voter activity of Hispanic Voters in Nassau County, I used the original Voter History Zip file. The Voter History Zip file recorded every time a voter voted based on their ID number. To calculate how active each Hispanic voter was I used the "countif" function in excel to count the number of times each Hispanic voter had voted.
+
+When examining voter activity of Hispanic voters in Nassau County, I found that Hispanic voters with Republican Party Affiliation were significantly more active than Hispanic voters with no party affiliation or Democratic Party affiliation. I also looked at age and voter activity to find that voters ages 67 to 75 (Boomers I generation) tended to be the most active.
+
+
+
+## Conclusion
 
 I also looked at the Hispanic voters' activity in Nassau County. I found that Hispanic voters associated with the Republican Party of Florida voted more frequently than Hispanic voters associated with the Democaratic Party of Florida and Hispanic voters with no party affiliation. I am going to see if there is a pattern with age amongst voters based on party affiliation and voting frequency. I am also going to see if there is a trend amongst different subgroups based on party affiliation and voting frequency. I want to also look at other counties in Florida to see if the trend of Republican Hispanics being more active holds true. 
 
-## Conclusion
