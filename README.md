@@ -38,7 +38,7 @@ The figure below shows which Hispanic sub-group is represented the most in each 
 
 ![Nassau County Sub-Group Map]
 
-<img src="https://user-images.githubusercontent.com/86391094/124339224-f520e980-db7a-11eb-80bf-dd07862e4b73.png" width="10" height="10" />
+<img src="https://user-images.githubusercontent.com/86391094/124339224-f520e980-db7a-11eb-80bf-dd07862e4b73.png" width="200" height="200" />
 
 Within Nassau County, there are 70,707 registered voters with Hispanics representing 1.996 percent of registered voters. This means that there are 1,411 Hispanics registered to vote in Nassau County.
 
