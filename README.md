@@ -61,7 +61,23 @@ The figure above shows the distribution of voters among different parties. The f
 
 #### Age and Gender with Party Affiliation File
 
+The Age and Gender with Party Affiliation file contains the same data as the REU data file. I used each voter's birthday to calculate their age. From their age, I was able to describe the age distribution of all registered voters in Nassau County and the age distribution of registered Hispanic voters in Nassau County. 
+
+![Age Distribution of All Voters](https://user-images.githubusercontent.com/86391094/124340322-5a2c0d80-db82-11eb-9c83-ed82c73f1c14.png)
+
+The figure above shows the age distribution of all registered voters in Nassau County by generation. Amongst all voters, the generation with most representation is GEN X, which is people ages 41-56. The generation with least representation is WWII, which is people ages 94-99.
+
+![Age Distribution of Hispanic Voters](https://user-images.githubusercontent.com/86391094/124340327-67e19300-db82-11eb-880f-a8c623cdc00b.png)
+
+The figure above shows the age distribution of Hispanic voters in Nassau County by generation. When comparing all voters to Hispanic voters, majority of Hispanic voters are millennials (ages 25-40) and majority of all voters are GEN X (41-56). Also, note that there is only one Hispanic voter in the WWII generation in Nassau County.
+
 ## Implementation
+
+One goal is to identify trends amongst Hispanic voters that will help us predict their party affiliation and vote. In order to do this, known factors, such as age and location, that create trends amongst non-Hispanic voters must be researched and applied to Hispanic voters within Nassau County. Once trends have been found amongst Hispanic voters in Nassau County, the trends can be used to predict Hispanic voters' party affiliation and vote in a larger region of Florida, or even all of Florida.
+
+To start, I looked into age being a trend amongst Hispanic voters like it is with non-Hispanic voters. Some studies show that voters ages 50 and older tend to favor the Republican Party, but millennial voters (ages 25-40) tend to favor the Democratic Party (cite this). Below, the figure shows the breakdown of generations in Nassau County and their favored party. The figure below does not necessarily show a useful trend amongst generations that is helpful in predicting a Hispanic voter's party affiliation and vote due to the fact that No Party Affiliation is largely favored amongst younger generations.
+
+![Party Affiliation by Age of Hispanic Voters](https://user-images.githubusercontent.com/86391094/124340371-bb53e100-db82-11eb-85b1-ef52761af2ad.png)
 
 I also looked at the Hispanic voters' activity in Nassau County. I found that Hispanic voters associated with the Republican Party of Florida voted more frequently than Hispanic voters associated with the Democaratic Party of Florida and Hispanic voters with no party affiliation. I am going to see if there is a pattern with age amongst voters based on party affiliation and voting frequency. I am also going to see if there is a trend amongst different subgroups based on party affiliation and voting frequency. I want to also look at other counties in Florida to see if the trend of Republican Hispanics being more active holds true. 
 
