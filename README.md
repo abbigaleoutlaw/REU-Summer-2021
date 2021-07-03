@@ -102,7 +102,29 @@ The figure below compares active and passive voters based on generation and part
 
 ![Active vs  Passive Voters based on Generation and Party Affiliation](https://user-images.githubusercontent.com/86391094/124341540-0eca2d00-db8b-11eb-9555-117b58acdfbc.png)
 
-I am currently looking to see if sub-group identity and party affiliation have a trend to help explain the underperformance faced by the Democratic Party. To do this, I used the NASSAU COUNTY-HISPANIC file. From this file, I extracted voters that were predicted to be Hispanic based on last name only. I created another excel file, Prediction based on Last Name, with the extracted voters. Within the Prediction based on Last Name file, I predicted voters sub-group identity by using their most likely sub-group, meaning the sub-group with the highest percentage based on last name popularity. I multiplied the most likely sub-group identity and multiplied it by the distribution percentage. I still need to normalize this probability percentage. With this identification method, I tried to pick out the Hispanics that were considered "easy" to identify. I deemed people as "easy" to identify if their most likely sub-group identity did not exceed the maximum amount of Hispanics within that sub-group for their certain zip code. For example, there are thirty-one people with last name predictions for zip code 32046. Within these thirty-one people, four Hispanics sub-group with the highest percentage was Puerto Rican. In zip code 32046, there are seventeen Puerto Ricans, so I predicted that these four Hispanics are Puerto Rican. From this method of prediction, I have created a sub-set of HIspanic voters in Nassau County that contains only 574 voters. With this sub-set, I am hoping to be able to see if there are any trends with sub-group identity and party affiliation. 
+I am currently looking to see if sub-group identity and party affiliation have a trend to help explain the underperformance faced by the Democratic Party. To do this, I used the NASSAU COUNTY-HISPANIC file. From this file, I extracted voters that were predicted to be Hispanic based on last name only. I created another excel file, Prediction based on Last Name, with the extracted voters. Within the Prediction based on Last Name file, I predicted voters sub-group identity by using their most likely sub-group, meaning the sub-group with the highest percentage based on last name popularity. I multiplied the most likely sub-group identity and multiplied it by the distribution percentage. I still need to normalize this probability percentage. With this identification method, I tried to pick out the Hispanics that were considered "easy" to identify. I deemed people as "easy" to identify if their most likely sub-group identity did not exceed the maximum amount of Hispanics within that sub-group for their certain zip code. For example, there are thirty-one people with last name predictions for zip code 32046. Within these thirty-one people, four Hispanics sub-group with the highest percentage was Puerto Rican. In zip code 32046, there are seventeen Puerto Ricans, so I predicted that these four Hispanics are Puerto Rican. From this method of prediction, I have created a sub-set of HIspanic voters in Nassau County that contains only 574 voters. With this sub-set, I am hoping to be able to see if there are any trends with sub-group identity and party affiliation. With the "easy" to identify Hispanics, I was able to create graphics and a table to describe their activity. 
+
+The figure below from the Voter Activity-Nassau file describes the percent of active and passive voters for each sub-group based on the "easy" to identify sub-set. 
+
+![Active vs  Passive Voters based on Sub-Group Identity and Party Affiliation](https://user-images.githubusercontent.com/86391094/124344066-54442580-db9e-11eb-95ec-ccfd41dc1594.png)
+
+The table below from the Voter Activity-Nassau file shows the total number of each sub-group identified with party affiliation of the three most prevalent sub-groups: Cuban, Mexican, and Puerto Rican.
+
+| Sub-group | DEM | NPA | REP | Other(s) |
+| --------- | --- | --- | --- | -------- |
+| Cuban | 40 | 45 | 30 | 2 |
+| Mexican | 13 | 25 | 36 | 2 |
+| Puerto Rican | 85 | 93 | 50 | 1 |
+
+The table below shows the total number of times each sub-group voted based on party affiliation of the three most prevalent sub-groups: Cuban, Mexican, and Puerto Rican. 
+
+| Sub-group | DEM | NPA | REP | Other(s) |
+| --------- | --- | --- | --- | -------- |
+| Cuban | 146 | 96 | 193 | 2 |
+| Mexican | 60 | 34 | 137 | 0 |
+| Puerto Rican | 104 | 97 | 207 | 0 |
+
+By comparing the tables above, it can be seen that Cubans and Puerto Ricans with Republican Party affiliation have voted more times than Cubans and Puerto Ricans with any other party affiliation. However, Mexicans with Democratic Party affiliation have voted more times that Mexicans with any other party affiliation.
 
 I have also normalized the number of times a Hispanic voter has voted by zip code and by age in the Voter Activity-Nassau file. Dr. Berezovski is helping me work with the normalization, so that I will be able to draw conclusions from the normalized data.
 
