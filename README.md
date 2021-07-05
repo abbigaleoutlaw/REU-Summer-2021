@@ -91,7 +91,7 @@ The figure below compares active and passive voters based on party affiliation. 
 
 ![Voter Activity based on Party Affiliation](https://user-images.githubusercontent.com/86391094/124341534-05d95b80-db8b-11eb-9300-6034a3c37442.png)
 
-The chart below compares the number of Hispanics within each party affiliation and the total number of times Hispanics within each party affiliation have voted. Note that Hispanics with Republican Party affiliation have voted a significant amount more with less voters than Hispanic voters with any other party affiliation. 
+The chart below compares the number of Hispanics within each party affiliation and the total number of times Hispanics within each party affiliation have voted. Note that Hispanics with Republican Party affiliation have voted a significant amount more than Hispanic voters with any other party affiliation. 
 
 | | DEM | NPA | REP | Other(s) |
 | ----- | --- | --- | --- | -------- |
